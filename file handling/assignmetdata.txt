@@ -1,0 +1,6 @@
+Name of student : 2 is : ass2
+ID of student   : 2 is : 2
+Age of student  : 2 is : 2
+Sem  of student : 2 is : 2
+CGPA of student : 2 is : 2
+Grad of student : 2 is : 2

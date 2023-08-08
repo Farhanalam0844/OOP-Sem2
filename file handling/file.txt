@@ -1,0 +1,2 @@
+Now it is opened in append mode
+Now it is opened in append mode

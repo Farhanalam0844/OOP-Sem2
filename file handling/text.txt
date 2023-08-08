@@ -1,0 +1,3 @@
+First line in file
+2nd line in file
+Now it is opened in append mode 
